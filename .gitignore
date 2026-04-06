@@ -1,3 +1,2 @@
-oss-cad-suite/
-./*.json
-./*.fs
+pnr
+bitfiles
